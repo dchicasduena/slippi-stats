@@ -1,2 +1,2 @@
 # slippi-stats
-show Slippi stats
+- [slippiJS](https://github.com/project-slippi/slippi-js)
