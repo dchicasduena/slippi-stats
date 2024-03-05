@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8c311fc1855d0f4e5c04a69d4466977",
+    "revision": "ba6fffc271642d96ee6046c69ff7703e",
     "url": "/dchicasduena/slippi-stats/index.html"
   },
   {
-    "revision": "2aed8b48a931a916228c",
+    "revision": "ab5b99dd94e1c34e038c",
     "url": "/dchicasduena/slippi-stats/static/css/main.a7969728.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dchicasduena/slippi-stats/static/js/3.940f5f6f.chunk.js"
   },
   {
-    "revision": "2aed8b48a931a916228c",
-    "url": "/dchicasduena/slippi-stats/static/js/main.645bfd63.chunk.js"
+    "revision": "ab5b99dd94e1c34e038c",
+    "url": "/dchicasduena/slippi-stats/static/js/main.396cfa58.chunk.js"
   },
   {
     "revision": "207441de1e87556a36bb",
