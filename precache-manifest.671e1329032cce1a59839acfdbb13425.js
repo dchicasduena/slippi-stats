@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f56e8a4267102d36ad31142970172f6",
+    "revision": "f67255a612412f76146e0671abb4247a",
     "url": "/dchicasduena/slippi-stats/index.html"
   },
   {
