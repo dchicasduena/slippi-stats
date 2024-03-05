@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dchicasduena/slippi-stats/precache-manifest.671e1329032cce1a59839acfdbb13425.js"
+  "/dchicasduena/slippi-stats/precache-manifest.762e022e49c4401c7647ff28616d3414.js"
 );
 
 self.addEventListener('message', (event) => {

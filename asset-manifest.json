@@ -1,18 +1,17 @@
 {
   "files": {
     "main.css": "/dchicasduena/slippi-stats/static/css/main.a7969728.chunk.css",
-    "main.js": "/dchicasduena/slippi-stats/static/js/main.fa0d706d.chunk.js",
-    "main.js.map": "/dchicasduena/slippi-stats/static/js/main.fa0d706d.chunk.js.map",
-    "runtime~main.js": "/dchicasduena/slippi-stats/static/js/runtime~main.3120f666.js",
-    "runtime~main.js.map": "/dchicasduena/slippi-stats/static/js/runtime~main.3120f666.js.map",
+    "main.js": "/dchicasduena/slippi-stats/static/js/main.645bfd63.chunk.js",
+    "main.js.map": "/dchicasduena/slippi-stats/static/js/main.645bfd63.chunk.js.map",
+    "runtime~main.js": "/dchicasduena/slippi-stats/static/js/runtime~main.6de8576f.js",
+    "runtime~main.js.map": "/dchicasduena/slippi-stats/static/js/runtime~main.6de8576f.js.map",
     "static/js/2.a2b181a3.chunk.js": "/dchicasduena/slippi-stats/static/js/2.a2b181a3.chunk.js",
     "static/js/2.a2b181a3.chunk.js.map": "/dchicasduena/slippi-stats/static/js/2.a2b181a3.chunk.js.map",
-    "static/js/3.a29efab2.chunk.js": "/dchicasduena/slippi-stats/static/js/3.a29efab2.chunk.js",
-    "static/js/3.a29efab2.chunk.js.map": "/dchicasduena/slippi-stats/static/js/3.a29efab2.chunk.js.map",
+    "static/js/3.940f5f6f.chunk.js": "/dchicasduena/slippi-stats/static/js/3.940f5f6f.chunk.js",
+    "static/js/3.940f5f6f.chunk.js.map": "/dchicasduena/slippi-stats/static/js/3.940f5f6f.chunk.js.map",
     "index.html": "/dchicasduena/slippi-stats/index.html",
-    "precache-manifest.671e1329032cce1a59839acfdbb13425.js": "/dchicasduena/slippi-stats/precache-manifest.671e1329032cce1a59839acfdbb13425.js",
+    "precache-manifest.762e022e49c4401c7647ff28616d3414.js": "/dchicasduena/slippi-stats/precache-manifest.762e022e49c4401c7647ff28616d3414.js",
     "service-worker.js": "/dchicasduena/slippi-stats/service-worker.js",
-    "static/css/main.a7969728.chunk.css.map": "/dchicasduena/slippi-stats/static/css/main.a7969728.chunk.css.map",
-    "static/media/logo.svg": "/dchicasduena/slippi-stats/static/media/logo.06e73328.svg"
+    "static/css/main.a7969728.chunk.css.map": "/dchicasduena/slippi-stats/static/css/main.a7969728.chunk.css.map"
   }
 }
