@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/slippi-stats/static/css/main.0d7bcd5f.css",
-    "main.js": "/slippi-stats/static/js/main.d466d50f.js",
+    "main.css": "/slippi-stats/static/css/main.5664086b.css",
+    "main.js": "/slippi-stats/static/js/main.8a8ee546.js",
     "static/js/453.b5eeb065.chunk.js": "/slippi-stats/static/js/453.b5eeb065.chunk.js",
-    "static/media/logo.svg": "/slippi-stats/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/slippi-stats/index.html",
-    "main.0d7bcd5f.css.map": "/slippi-stats/static/css/main.0d7bcd5f.css.map",
-    "main.d466d50f.js.map": "/slippi-stats/static/js/main.d466d50f.js.map",
+    "main.5664086b.css.map": "/slippi-stats/static/css/main.5664086b.css.map",
+    "main.8a8ee546.js.map": "/slippi-stats/static/js/main.8a8ee546.js.map",
     "453.b5eeb065.chunk.js.map": "/slippi-stats/static/js/453.b5eeb065.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d7bcd5f.css",
-    "static/js/main.d466d50f.js"
+    "static/css/main.5664086b.css",
+    "static/js/main.8a8ee546.js"
   ]
 }
