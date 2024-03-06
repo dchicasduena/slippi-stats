@@ -1,23 +1,22 @@
 .App-footer {
-    background-color:  #fffff0;
-    min-height: 5vh;
+    background-color: #fffff0;
+    min-height: 4vh;
     justify-content: left;
     display: flex;
     font-size: calc(5px + 2vmin);
     color: black;
     position:absolute;
-    padding: 2vh;
+    padding: 1vh;
     left:0;
     bottom:0;
     right:0;
   }
 
 .App-icon {
-    margin-right: 3vh;
+    margin-right: 2vh;
 }
 
 .App-iconSlippi {
-    margin-right: 3vh;
     color: rgb(38, 176, 70);
 }
 
