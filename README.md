@@ -18,3 +18,4 @@ npm start
 ### resources
 - [Create React App](https://github.com/facebook/create-react-app)
 - [SlippiJS](https://github.com/project-slippi/slippi-js)
+- [Project Slippi](https://slippi.gg)
