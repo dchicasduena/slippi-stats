@@ -1,5 +1,12 @@
 # slippi stats
 
+### to do
+- average l-cancels
+- average opening per kills
+- win rate
+- character spread
+- average ipm
+
 ### development
 ```sh
 git clone https://github.com/dchicasduena/slippi-stats
