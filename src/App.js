@@ -1,6 +1,7 @@
 import './App.css';
 import Footer from './Footer'
 import Header from './Header'
+import stats from './script'
 
 function App() {
   return (
