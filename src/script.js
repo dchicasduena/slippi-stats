@@ -12,7 +12,7 @@ const metadata = game.getMetadata();
 
 // Get computed stats - openings / kill, conversions, etc
 const stats = game.getStats();
-return(stats.overall);
+console.log(stats.actionCounts);
 
 // Get frames – animation state, inputs, etc
 // This is used to compute your own stats or get more frame-specific info (advanced)
