@@ -1,5 +1,7 @@
 # slippi stats
 
+## currently not working - working on it
+
 ### to do
 - average l-cancels
 - average opening per kills
